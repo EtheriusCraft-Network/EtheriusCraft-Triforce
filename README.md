@@ -34,6 +34,7 @@
 > [!IMPORTANT]
 > **Desenvolvido pela** ``EtheriusCraft - Network``!                                                                                                 
 > **Criadores:** ``YukiriDensuki & RyutaSK``.
+> **Outras versões:** [Alpha Versions](https://github.com/Densuki/EtheriusCraft-Triforce)
 >     
 > ### Considere entrar em nosso [DISCORD](https://discord.gg/7KAvZgztgu)!  
 <footer>
